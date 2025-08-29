@@ -15,5 +15,5 @@ This Python application provides a graphical interface to count the number of wo
 
 ## Screenshots
 
-![Imagen 1](imagenes_contador/img_contador1.jpg)
-![Imagen 2](imagenes_contador/img_contador2.jpg)
+![Imagen 1](imagenes_contador/img_contador1.jpeg)
+![Imagen 2](imagenes_contador/img_contador2.jpeg)
